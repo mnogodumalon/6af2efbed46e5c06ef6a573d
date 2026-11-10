@@ -1,0 +1,1 @@
+- Grußbuch (grußbuch): vorname[string/text], nachname[string/text], email[string/email], nachricht[string/textarea], zeitpunkt[date/datetimeminute]

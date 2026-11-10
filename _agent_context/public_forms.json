@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "grußbuch",
+      "app_id": "6af2efb2ce80433d7fc81b17",
+      "path": "/rest/apps/6af2efb2ce80433d7fc81b17/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "email",
+        "nachricht",
+        "zeitpunkt"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Grußbuch — Formular"
+    }
+  ]
+}
